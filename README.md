@@ -26,7 +26,6 @@
 </div>
 
 <br></br>
-<bt></br>
 
 <h2 align="center">Also have experience in</h3>
 <div align="center">
